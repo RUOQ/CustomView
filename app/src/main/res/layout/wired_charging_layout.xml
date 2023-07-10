@@ -1,0 +1,12 @@
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/shcy_charge_view"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#99000000">
+
+    <com.ruoq.surfaceviewcharge.BubbleViscosity
+        android:id="@+id/shcy_bubble_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+</FrameLayout>
